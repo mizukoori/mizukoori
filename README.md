@@ -1,3 +1,8 @@
+# README
+
+I am just an ordinary person. Navigating through the internet, glimpsing into this world.
+Here's my WakaTime coding stats dashboard, motivating me to stay productive.
+
 <!--START_SECTION:waka-->
 
 ```txt
