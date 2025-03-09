@@ -6,11 +6,11 @@ Here's my WakaTime coding stats dashboard, motivating me to stay productive.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     11 hrs 36 mins  █████████████████▓░░░░░░░   70.91 %
-TypeScript   2 hrs 16 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Python       1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Vue.js       3 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+Markdown     2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+JavaScript   2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+Other        2 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Pug          1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
