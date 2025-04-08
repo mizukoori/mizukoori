@@ -6,10 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   7 hrs 35 mins   █████████████████████▓░░░   86.25 %
-Other      36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Text       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown   6 hrs 24 mins   ██████████████████▓░░░░░░   74.85 %
+Other      56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+HTML       35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Text       26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 ```
 
 <!--END_SECTION:waka-->
