@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          3 hrs 48 mins   ████████████████▒░░░░░░░░   65.51 %
-Java              34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Java Properties   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-GN                27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-C++               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Markdown          3 hrs 57 mins   █████████████████░░░░░░░░   68.46 %
+Java Properties   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+GN                27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Java              23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+C++               10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
