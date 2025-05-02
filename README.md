@@ -6,10 +6,9 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins         ███████████▓░░░░░░░░░░░░░   46.26 %
-Python     24 mins         ██████████▓░░░░░░░░░░░░░░   42.65 %
-Other      6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   26 mins         █████████████░░░░░░░░░░░░   51.79 %
+Python     24 mins         ████████████░░░░░░░░░░░░░   47.75 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
