@@ -6,9 +6,10 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     4 hrs 50 mins   ████████████████████▓░░░░   82.19 %
-Python       54 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-SSH Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown     5 hrs 17 mins   ████████████████████░░░░░   79.97 %
+Python       54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+YAML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+SSH Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
