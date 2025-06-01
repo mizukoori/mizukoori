@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              9 hrs 25 mins   ██████████████████▓░░░░░░   75.17 %
-XML               1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-Markdown          1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Other             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-SQL               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java              9 hrs 25 mins   ████████████████░░░░░░░░░   63.91 %
+Markdown          2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+XML               1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+JavaScript        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+JSON              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
