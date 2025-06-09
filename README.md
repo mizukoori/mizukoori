@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          58 mins         █████████████████▒░░░░░░░   69.57 %
-mcfunction        13 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Groovy            5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Java Properties   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-JSON              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Markdown          2 hrs 25 mins   ████████████████▒░░░░░░░░   65.45 %
+JSON              28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Other             21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+mcfunction        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Groovy            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
