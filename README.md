@@ -6,9 +6,7 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     53 mins         █████████████████████████   99.55 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Markdown   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
