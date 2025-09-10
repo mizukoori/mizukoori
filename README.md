@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-C            8 hrs 1 min     ████████████████▒░░░░░░░░   65.65 %
-GN           1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Markdown     1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-SSH Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+C            9 hrs 17 mins   █████████████████░░░░░░░░   68.52 %
+GN           1 hr 56 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
+Markdown     1 hr 48 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
+Python       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+SSH Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->
