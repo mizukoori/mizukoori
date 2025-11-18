@@ -6,8 +6,7 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Other   0 secs          ██████████████░░░░░░░░░░░   56.63 %
-HTML    0 secs          ███████████░░░░░░░░░░░░░░   43.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
