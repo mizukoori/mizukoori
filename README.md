@@ -6,7 +6,8 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   2 hrs 28 mins   █████████████████████████   100.00 %
+Markdown   2 hrs 29 mins   ███████████████████▒░░░░░   77.75 %
+Python     42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
 ```
 
 <!--END_SECTION:waka-->
