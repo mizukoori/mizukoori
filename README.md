@@ -6,10 +6,9 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       38 mins         █████████████░░░░░░░░░░░░   52.43 %
-Markdown   26 mins         █████████░░░░░░░░░░░░░░░░   36.38 %
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-HTML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON       35 mins         █████████████▒░░░░░░░░░░░   52.76 %
+Markdown   26 mins         ██████████░░░░░░░░░░░░░░░   39.39 %
+Other      5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
 ```
 
 <!--END_SECTION:waka-->
