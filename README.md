@@ -6,7 +6,8 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   13 mins               █████████████████████████   100.00 %
+Python   1 hr 38 mins          ██████████████████████░░░   88.27 %
+TOML     13 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
 ```
 
 <!--END_SECTION:waka-->
