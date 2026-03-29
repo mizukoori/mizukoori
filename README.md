@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     3 hrs 53 mins         ███████████████████░░░░░░   76.14 %
-JavaScript   25 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Bash         16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
-TOML         13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Other        10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Markdown     2 hrs 4 mins          ███████████████░░░░░░░░░░   59.73 %
+JavaScript   40 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Bash         14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+TOML         13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Other        10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
