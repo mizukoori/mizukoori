@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     15 hrs 25 mins        ███████████▒░░░░░░░░░░░░░   44.96 %
-Astro        6 hrs 26 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.77 %
-TypeScript   4 hrs 22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.74 %
-JSON         3 hrs 17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
-Other        2 hrs 31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+Markdown     17 hrs 13 mins        ████████████▓░░░░░░░░░░░░   51.20 %
+Astro        5 hrs 41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
+TypeScript   3 hrs 52 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+JSON         3 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Other        1 hr 41 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 ```
 
 <!--END_SECTION:waka-->
