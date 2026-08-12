@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 hrs 47 mins         █████████████████░░░░░░░░   68.07 %
-Python       1 hr 13 mins          ███████▓░░░░░░░░░░░░░░░░░   30.02 %
-YAML         3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown     4 hrs 56 mins         ██████████████░░░░░░░░░░░   55.91 %
+Python       3 hrs 18 mins         █████████▒░░░░░░░░░░░░░░░   37.44 %
+Caddyfile    22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+HTML         7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+YAML         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
