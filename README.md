@@ -6,9 +6,8 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Other      9 hrs 50 mins         ███████████████████▒░░░░░   77.56 %
-Markdown   2 hrs 27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Python     23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+Other      8 hrs 14 mins         ███████████████████▒░░░░░   77.52 %
+Markdown   2 hrs 23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
 ```
 
 <!--END_SECTION:waka-->
