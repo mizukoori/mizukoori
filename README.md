@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Python         18 hrs 6 mins         ██████████▒░░░░░░░░░░░░░░   41.94 %
-Markdown       11 hrs 33 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-Other          7 hrs 27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-JSON           1 hr 39 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Text           1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Python         17 hrs 42 mins        █████████▓░░░░░░░░░░░░░░░   38.08 %
+Markdown       15 hrs 11 mins        ████████░░░░░░░░░░░░░░░░░   32.66 %
+Other          7 hrs 33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+JSON           1 hr 39 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+Text           1 hr 18 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
