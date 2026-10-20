@@ -6,11 +6,11 @@ Hopefully, I haven't been slacking off.
 <!--START_SECTION:waka-->
 
 ```txt
-Other        38 mins               ██████████████░░░░░░░░░░░   55.70 %
-PowerShell   11 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-TypeScript   9 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Markdown     9 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Astro        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other        1 hr 17 mins          ██████████▒░░░░░░░░░░░░░░   41.72 %
+Bash         41 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Markdown     27 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
+JavaScript   21 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+HTML         18 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 ```
 
 <!--END_SECTION:waka-->
